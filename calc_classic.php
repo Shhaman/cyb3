@@ -29,13 +29,14 @@
             }
                 
         ?>
+        <a href="index1.html">Домашняя страница<a/>
         <form>
             <input type="text" name="num1" value="<?=$x?>"/></br>
             <input type="text" name="num2" value="<?=$y?>"/></br>
             <button>+</button>
             <button>-</button></br>
         </form>
-        <input type="text" value="<?=$z?>"/>
+        <input type="text" value="<?=$z?>"/><br>
         <textarea name=" " id="" cols="30" rows="10"></textarea>
 	</body>
 </html>
